@@ -1,0 +1,64 @@
+html{
+    height: 100%;
+    background-color:rgb(61, 196, 219);
+}
+
+
+.small{
+    color: rgb(231, 108, 221);
+    font-size: 50px;
+    transition: 1s;
+}
+#memeGenInput{
+    position: absolute;
+    display: inline-block;
+    top: 100px;
+    line-height: 30px;
+}
+
+#memeLibrary{
+    
+    position: relative;
+    top:200px
+}
+#submitBTN{
+    position: relative;
+    left:162px
+}
+#imgUrl{
+    position: relative;
+    left:15px
+}
+#textBoxTop{
+    position: relative;
+    left:24px
+}
+
+.newClass{
+    position: relative;
+}
+
+.text1{
+    display: block;
+    position: relative;
+    top: -260px;
+    left: 10px;
+    max-width: 250px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.text2{
+    position: relative;
+    top: -180px;
+    left: 10px;
+    max-width: 250px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.memeImg{
+    position: relative;
+    
+    max-height: 300px;
+    max-width: 300px;
+    min-height: 250px;
+}
